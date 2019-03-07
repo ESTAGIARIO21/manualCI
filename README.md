@@ -87,7 +87,8 @@ Usuário do Sistema / Analista de Suporte
 
 	Quando finalizado o conteúdo da C.I - Comunicação Interna o proximo passo é envia-la ao destinatário.
 
-	O botão “Enviar” ![enviar](https://user-images.githubusercontent.com/47988034/53981166-cac8d980-40f0-11e9-9119-13078ffd9a9f.png) é o responsável por intermediar a comunicação entre as secretarias.
+O botão “Enviar” ![enviar](https://user-images.githubusercontent.com/47988034/53981166-cac8d980-40f0-11e9-9119-13078ffd9a9f.png) é o responsável por intermediar a comunicação entre as secretarias.
+
 ####	Será aberto uma nova janela onde é possivel selecionar o destino do documento.
 <p align="center">
 <img src="https://user-images.githubusercontent.com/47988034/53982704-555f0800-40f4-11e9-85da-a907273d01e9.png">
